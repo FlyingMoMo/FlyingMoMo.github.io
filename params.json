@@ -1,0 +1,1 @@
+{"name":"Moloch","tagline":"on the way","body":"## **Welcome to my personal website!**\r\n\r\n`#include<iostream>`\r\n\r\n`using namespace std;`\r\n\r\n`int main()`\r\n`{`\r\n  `cout<<\"first blood\"<<endl;`\r\n  `return 0;`\r\n`}`\r\n\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
